@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">🙎my name is Jewewl Hossain Fahim <br>👨🏿‍💻I'm a Full Stack Web Developer<br>🏘️from Bangladesh</h3>
+<h3 align="left">🙎my name is Jewel Hossain Fahim <br>👨🏿‍💻I'm a Full Stack Web Developer<br>🏘️from Bangladesh</h3>
 
 ###
 <h3 align="center">As a Professional Full-Stack developer from Bangladesh</h3>
